@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/kinect/com.primesense.NITE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/kinect/org.OpenNI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/colorutils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/jfreechart/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/jfreechart/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/jfreechart/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/jfreechart/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/jfreechart/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/jfreechart/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/jfreechart/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/jfreechart/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/jfreechart/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/jfreechart/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/jfreechart/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/Filters.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/j3dtree.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Heitor/workspace/kops/lib/ch.ntb.usb-0.5.9_REVISED.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
